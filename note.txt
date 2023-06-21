@@ -1,1 +1,1 @@
-https://weather-app-ostad.netlify.app/
+https://vue.mirzaovi.com/weather-app/
