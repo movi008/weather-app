@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+Live Site: https://weather-app-ostad.netlify.app/
