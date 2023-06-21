@@ -23,7 +23,7 @@
                                 <h4 class="mb-0 mt-3"> {{ state.city }} </h4>
                                 <p class="display-2 my-3"> {{ state.temp }}°C</p>
                                 <p class="mb-2">Feels Like: <strong>{{ state.feels }} °C</strong></p>
-                                <h5> {{ state.descrition }} </h5>
+                                <h5 class="text-capitalize"> {{ state.descrition }} </h5>
                             </div>
                         </div>
                     </div>
@@ -38,10 +38,10 @@ import { ref, reactive, onMounted } from 'vue'
 const inpCity = ref('khulna')
 import axios from 'axios';
 let state = reactive({
-    city: 'Juneau, Alaska, US',
-    temp: '1.28',
-    feels: '-1.08',
-    descrition: 'Snowy'
+    city: 'Khulna, BD',
+    temp: '26.21',
+    feels: '26.21',
+    descrition: 'Light Rain'
 });
 
 
