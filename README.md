@@ -28,4 +28,4 @@ npm run dev
 npm run build
 ```
 
-Live Site: https://weather-app-ostad.netlify.app/
+Live Site: https://vue.mirzaovi.com/weather-app/
