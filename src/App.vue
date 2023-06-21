@@ -1,5 +1,5 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import WeatherApp from './components/WeatherApp.vue';
 </script>
 
 <template>
@@ -7,7 +7,7 @@ import HelloWorld from './components/HelloWorld.vue'
     
 <div>
     
-      <HelloWorld msg="You did it!" />
+     <WeatherApp/>
    
 </div>
 
