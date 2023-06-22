@@ -35,7 +35,7 @@
 
 <script setup>
 import { ref, reactive, onMounted } from 'vue'
-const inpCity = ref('khulna')
+const inpCity = ref('Khulna')
 import axios from 'axios';
 let state = reactive({
     city: 'Khulna, BD',
